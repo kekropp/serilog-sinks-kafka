@@ -42,3 +42,5 @@ Configuration is read from the `Serilog` section.
 }
 ```
 
+Inspired in large parts by: https://github.com/lurumad/serilog-sinks-kafka
+
